@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<BookInfo><Book bookid="1"><bookname>JAVA</bookname><authorname> Balguru Swami</authorname><price>300</price><year>2023</year></Book><Book bookid="2"><bookname>PHP</bookname><authorname> John Doe</authorname><price>250</price><year>2003</year></Book></BookInfo>
