@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>PHP for Beginners</title>
+        <author>John Doe</author>
+        <publication>2020</publication>
+    </book>
+    <book>
+        <title>Advanced PHP Programming</title>
+        <author>Jane Smith</author>
+        <publication>2021</publication>
+    </book>
+</books>
