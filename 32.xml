@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<StudentInfo>
+    <student>
+        <name> Rutuja </name>
+        <class>TYBCS </class>
+        <mob>8600955084 </mob>
+    </student>
+    <student>
+        <name> Bhavna </name>
+        <class>TYBCS </class>
+        <mob>8799978815 </mob>
+    </student>
+    <student>
+        <name> Shraddha </name>
+        <class>SYMSC </class>
+        <mob>8612955084 </mob>
+    </student>
+    <student>
+        <name> Priyanka </name>
+        <class>TYBCS </class>
+        <mob>8612335084 </mob>
+    </student>
+    <student>
+        <name> Kshitija </name>
+        <class>FYBSC </class>
+        <mob>9087654321 </mob>
+    </student>
+</StudentInfo>
