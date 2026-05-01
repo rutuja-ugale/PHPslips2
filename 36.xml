@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Bookstore>
+    <book name="yoga">
+        <title> Yoga Mindset </title>
+        <author> Rutuja </author>
+        <price> 550 </price>
+    </book>
+    <book name="story">
+        <title> LifeSet </title>
+        <author> Rutujaa </author>
+        <price> 530 </price>
+    </book>
+    <book name="technical">
+        <title> IT </title>
+        <author> Shraddha </author>
+        <price> 250 </price>
+    </book>
+</Bookstore>
